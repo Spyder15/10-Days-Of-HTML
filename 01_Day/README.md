@@ -20,7 +20,7 @@ Look at the figure below to understand a syntax of an HTML element.
 ![Open and Close tag without attribute]
 
 ```html
-<h1>Welcome to 30 Days of HTML</h1>
+<h1>Welcome to 10 Days of HTML</h1>
 ```
 
 The tag name is _h1_ and the content is _10 Days of HTML_. The h1 will tell the browser to make the text a big font size that why we call HTML a markup language.
