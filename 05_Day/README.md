@@ -25,3 +25,5 @@ List of some semantic elements:
 To know more about each semantic element, you can read this [article](https://www.freecodecamp.org/news/semantic-html5-elements/).
 
 ## Exercise
+
+Apply semantic elements on your HTML document
