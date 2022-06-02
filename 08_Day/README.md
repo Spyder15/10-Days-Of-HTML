@@ -12,9 +12,9 @@ In this section, we will see how to create an HTML table. Table has an external 
     <td>Country</td>
   </tr>
   <tr>
-    <td>Asabeneh</td>
-    <td>250</td>
-    <td>Finland</td>
+    <td>priyanshu </td>
+    <td>20</td>
+    <td>india</td>
   </tr>
 </table>
 ```
